@@ -1,0 +1,23 @@
+Building Blocks
+---
+  Components 
+  Directives
+  Services
+  Interfaces
+  Classes
+  Models 
+  Guards
+  Pipes 
+  Modules
+---
+
+Concepts
+--
+  Databinding
+  Routing 
+  Rx/Observables
+  Promise 
+  Any to Any Comp communication 
+
+
+Unit Testing
